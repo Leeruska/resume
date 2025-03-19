@@ -6,101 +6,126 @@
     "name": "Veera Niemi",
     "label": "Future Web Developer",
     "image": "",
-    "summary": "I'm a service desk speacialist and future web developer/data engineer/cybersecurity specialist. I'm very flexible when investigating new roles. ",
-    "website": "https://www.linkedin.com/in/niemiveera/",
     "email": "niemi.veera@gmail.com",
+    "phone": "",
+    "url": "https://www.linkedin.com/in/niemiveera/",
+    "summary": "I'm a service desk speacialist and future web developer/data engineer/cybersecurity specialist. I'm very flexible when investigating new roles. ",
     "location": {
+      "address": "",
+      "postalCode": "",
       "city": "Tampere",
-      "countryCode": "FI"
+      "countryCode": "FI",
+      "region": ""
     },
     "profiles": [
       {
+        "network": "LinkedIn",
         "username": "Leeruska",
-        "url": "https://www.linkedin.com/in/niemiveera/",
-        "network": "LinkedIn"
+        "url": "https://www.linkedin.com/in/niemiveera/"
       },
       {
+        "network": "github",
         "url": "https://github.com/Leeruska",
-        "username": "Leeruska",
-        "network": "github"
-      }
-    ]
+        "username": "Leeruska"
+      }]
   },
-  "education": [
-    {
-      "endDate": "2010",
-      "startDate": "2006",
-      "area": "Media",
-      "studyType": "Bachelors",
-      "institution": "Tampere Polytechnic (TAMK)"
-    }
-  ],
-  "references": [
-    {
-      "reference": "Thomas was hired as a lead developer and, upon the leaving of our co-founder took over as CTO of Earbits. Thomas is, hands down, one of those A Players you hear of companies dying to hire. He is incredibly smart, not just at code but about everything from classical music to Chinese language and culture. Thomas is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have him on your team.",
-      "name": "Otto Korko, Service Desk Specialist and colleague"
-    }
-  ],
-  "skills": [
-    {
-      "keywords": ["Customer Service", "Problem solving", "AD", "Entra ID", "Intune", "SCCM"],
-      "level": "Medior",
-      "name": "Service Desk Specialist"
-    },
-    {
-      "keywords": ["HTML /  CSS", "JSON", "Python", "Postgres"],
-      "level": "Junior",
-      "name": "Frontend"
-    },
-    {
-      "keywords": ["Python", "Postgres"],
-      "level": "Junior",
-      "name": "Backend"
-    },
-    {
-      "keywords": ["AWS", "Azure"],
-      "level": "Junior",
-      "name": "Devops"
-    }
-  ],
-  "awards": [
-    {
-      "title": "placeholder",
-      "awarder": "placeholder"
-    }
-  ],
-  "work": [
-    {
-      "summary": "placeholder",
-      "website": "placeholder",
-      "name": "placeholder",
-      "location": "placeholder",
-      "position": "trainee",
-      "startDate": "2022",
-      "highlights": ["placeholder"]
-    },
-    {
-      "highlights": ["This resume is built with JSON Resume", "Over 3000 stars on Github", "Community developed themes", "Tens of thousands of users"],
-      "summary": "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools.",
-      "website": "http://jsonresume.org",
-      "pinned": true,
-      "name": "JSON Resume",
-      "position": "Founder",
-      "startDate": "2014-04-01"
-    }
-  ],
-  "interests": [
-    {
-      "name": "E-textiles"
-    },
-    {
-      "name": "Handcrafts"
-    },
-    {
-      "name": "Cybersecurity"
-    },
-    {
-      "name": "Open Source"
-    }
-  ]
+  "work": [{
+    "name": "TietoEvry",
+    "position": "Service Desk Specialist",
+    "url": "",
+    "startDate": "2022-09-01",
+    "endDate": "",
+    "summary": "",
+    "highlights": [
+      ""
+   ]
+  }],
+  "volunteer": [{
+    "organization": "",
+    "position": "",
+    "url": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
+    "highlights": [
+      ""
+    ]
+  }],
+  "education": [{
+    "institution": "Polytechnic",
+    "url": "",
+    "area": "Art and Media",
+    "studyType": "Bachelor",
+    "startDate": "2006-08-01",
+    "endDate": "2010-06-30",
+    "score": "",
+    "courses": [
+      ""
+    ]
+  }],
+  "awards": [{
+    "title": "",
+    "date": "",
+    "awarder": "",
+    "summary": ""
+  }],
+  "certificates": [{
+    "name": "Microsoft AI-900",
+    "date": "2024-06-19",
+    "issuer": "Microsfot",
+    "url": ""
+  }],
+  "publications": [{
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "url": "",
+    "summary": ""
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Junior",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "Finnish",
+    "fluency": "Native speaker"
+  },
+  {
+    "language": "English",
+    "fluency": "Fluent"
+  },
+  {
+    "language": "Swedish",
+    "fluency": "Intermediate"
+  },
+  {
+    "language": "Spanish",
+    "fluency": "Beginner"
+  }],
+  "interests": [{
+    "name": "",
+    "keywords": [
+      "",
+      ""
+    ]
+  }],
+  "references": [{
+    "name": "",
+    "reference": ""
+  }],
+  "projects": [{
+    "name": "",
+    "startDate": "",
+    "endDate": "",
+    "description": "",
+    "highlights": [
+      ""
+    ],
+    "url": ""
+  }]
 }
