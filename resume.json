@@ -32,24 +32,13 @@
   "work": [{
     "name": "TietoEvry",
     "position": "Service Desk Specialist",
-    "url": "",
+    "url": "https://www.tietoevry.com/",
     "startDate": "2022-09-01",
     "endDate": "",
     "summary": "",
     "highlights": [
       ""
    ]
-  }],
-  "volunteer": [{
-    "organization": "",
-    "position": "",
-    "url": "",
-    "startDate": "",
-    "endDate": "",
-    "summary": "",
-    "highlights": [
-      ""
-    ]
   }],
   "education": [{
     "institution": "Polytechnic",
@@ -63,24 +52,11 @@
       ""
     ]
   }],
-  "awards": [{
-    "title": "",
-    "date": "",
-    "awarder": "",
-    "summary": ""
-  }],
   "certificates": [{
     "name": "Microsoft AI-900",
     "date": "2024-06-19",
     "issuer": "Microsfot",
-    "url": ""
-  }],
-  "publications": [{
-    "name": "",
-    "publisher": "",
-    "releaseDate": "",
-    "url": "",
-    "summary": ""
+    "url": "https://www.tietoevry.com/"
   }],
   "skills": [{
     "name": "Web Development",
@@ -108,24 +84,15 @@
     "fluency": "Beginner"
   }],
   "interests": [{
-    "name": "",
+    "name": "Handcrafts",
     "keywords": [
-      "",
-      ""
+      "e-textiles",
+      "cross stitch",
+      "knitting"
     ]
   }],
   "references": [{
-    "name": "",
-    "reference": ""
+    "name": "Otto",
+    "reference": "10/10 coworker"
   }],
-  "projects": [{
-    "name": "",
-    "startDate": "",
-    "endDate": "",
-    "description": "",
-    "highlights": [
-      ""
-    ],
-    "url": ""
-  }]
 }
