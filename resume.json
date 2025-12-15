@@ -83,15 +83,6 @@
       "startDate": "",
       "endDate": ""
     },
-    {
-      "highlights": ["This resume is built with JSON Resume", "Over 3000 stars on Github", "Community developed themes", "Tens of thousands of users"],
-      "summary": "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools.",
-      "website": "http://jsonresume.org",
-      "pinned": true,
-      "name": "JSON Resume",
-      "position": "Founder",
-      "startDate": "2014-04-01"
-    },
   ],
   "interests": [
     {
@@ -101,7 +92,7 @@
       "name": "Music"
     },
     {
-      "name": "Reading"
+      "name": "Gaming"
     },
     {
       "name": "Open Source"
