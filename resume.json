@@ -6,9 +6,9 @@
     "name": "Veera Niemi",
     "label": "Service Desk Specialist",
     "image": "https://avatars.githubusercontent.com/u/85611014?v=4", 
-    "summary": "Lorem ipsum.",
-    "website": "loremipsum",
-    "email": "--",
+    "summary": "Solving problems and helping people.",
+    "website": null,
+    "email": null,
     "location": {
       "city": "Tampere",
       "countryCode": "FI"
@@ -23,78 +23,89 @@
   },
   "education": [
     {
-      "endDate": "2010-06-15",
-      "startDate": "2006-08-15",
+      "endDate": "2010-06",
+      "startDate": "2006-08",
       "area": "Sound Design",
-      "studyType": "Bachelors",
+      "studyType": "Bachelor of Art and Media",
       "institution": "TAMK"
     }
   ],
   "references": [
     {
-      "reference": "yesyes",
-      "name": "yesyes yesyes"
+      "reference": "Veera has been one of the most skilled employees in the team, showing strong initiative from the beginning, but also always finding time to help her colleagues. 10/10 co-worker",
+      "name": "Otto, colleague"
     }
   ],
   "skills": [
     {
-      "keywords": [
-        "HTML",
-        "SCSS / CSS"
-      ],
+      "keywords": ["HTML", "CSS"],
       "level": "Junior",
       "name": "Frontend"
     },
     {
-      "keywords": ["Python", "Postgres"],
+      "keywords": ["Python", "Postgres", "SQL"],
       "level": "Junior",
       "name": "Backend"
     },
     {
-      "keywords": ["AWS", "G Cloud", "Azure"],
+      "keywords": ["AWS", "Azure", "Azure AI"],
       "level": "Junior",
       "name": "Devops"
     }
   ],
-  "awards": [
+  "languages": [
     {
-      "title": "nono",
-      "awarder": "nono"
+      "language: "Finnish",
+      "fluency: "Native speaker"
+    },
+    {
+      "language: "English",
+      "fluency: "Fluent"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AI-900 Azure AI Fundamentals",
+      "date": "2024-06",
+      "issuer: "Microsoft",
+      "url: null
     }
   ],
   "work": [
     {
       "summary": "",
-      "website": "",
-      "name": "",
-      "location": "",
-      "position": "  ",
-      "startDate": "",
-      "highlights": ["", "", "", ""]
+      "website": null,
+      "pinned: true,
+      "name": "Vivicta (Tietoevry Tech Services)",
+      "location": "Vaasa",
+      "position": "Service Desk Specialist",
+      "startDate": "2022-09",
+      "endDate: "",
+      "highlights": ["customer service", "problem solving", "printers", "backoffice"]
     },
     {
-      "highlights": "Worked with you."
       "summary": "",
-      "website": "",
+      "website": null,
       "pinned": true,
-      "name": "",
-      "position": "",
-      "startDate": "",
-      "endDate": ""
-    },
+      "name": "Creative Technology Finland",
+      "position": "Project Manager",
+      "startDate": "2012-02",
+      "endDate": "2022-01"
+      "highlights": ["Project management", "expos", "streams", "audio"]
+    }
   ],
   "interests": [
     {
       "name": "Puzzles"
     },
     {
-      "name": "Music"
+      "name": "Daft Punk"
     },
     {
-      "name": "Gaming"
+      "name": "Cities:Skylines"
     },
     {
-      "name": "Open Source"
+      "name": "BeatSaber"
     }
   ]
 }
