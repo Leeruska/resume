@@ -55,32 +55,32 @@
   ],
   "languages": [
     {
-      "language: "Finnish",
-      "fluency: "Native speaker"
+      "language": "Finnish",
+      "fluency": "Native speaker"
     },
     {
-      "language: "English",
-      "fluency: "Fluent"
+      "language": "English",
+      "fluency": "Fluent"
     }
   ],
   "certificates": [
     {
       "name": "AI-900 Azure AI Fundamentals",
       "date": "2024-06",
-      "issuer: "Microsoft",
-      "url: null
+      "issuer": "Microsoft",
+      "url": null
     }
   ],
   "work": [
     {
       "summary": "",
       "website": null,
-      "pinned: true,
+      "pinned": true,
       "name": "Vivicta (Tietoevry Tech Services)",
       "location": "Vaasa",
       "position": "Service Desk Specialist",
       "startDate": "2022-09",
-      "endDate: "",
+      "endDate": "",
       "highlights": ["customer service", "problem solving", "printers", "backoffice"]
     },
     {
@@ -90,7 +90,7 @@
       "name": "Creative Technology Finland",
       "position": "Project Manager",
       "startDate": "2012-02",
-      "endDate": "2022-01"
+      "endDate": "2022-01",
       "highlights": ["Project management", "expos", "streams", "audio"]
     }
   ],
