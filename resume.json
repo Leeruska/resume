@@ -6,9 +6,9 @@
     "name": "Veera Niemi",
     "label": "Service Desk Specialist",
     "image": "https://avatars.githubusercontent.com/u/85611014?v=4", 
-    "summary": "Solving problems and helping people.",
-    "website": null,
-    "email": null,
+    "summary": "Driven by curiosity, continuous learning, and the joy of turning technical challenges into real improvements.",
+    "website": "https://www.linkedin.com/in/niemiveera/",
+    "email": "test@test.com",
     "location": {
       "city": "Tampere",
       "countryCode": "FI"
@@ -18,6 +18,11 @@
         "url": "https://github.com/Leeruska",
         "username": "Leeruska",
         "network": "github"
+      },
+      {
+        "url": "https://www.linkedin.com/in/niemiveera/",
+        "username": "niemiveera",
+        "network": "LinkedIn"
       }
     ]
   },
@@ -27,30 +32,66 @@
       "startDate": "2006-08",
       "area": "Sound Design",
       "studyType": "Bachelor of Art and Media",
-      "institution": "TAMK"
+      "institution": "Tampere Polytechnic (TAMK)"
+    },
+    {
+      "endDate": "2006-06",
+      "startDate": "2005-09",
+      "area": "Sound Design",
+      "studyType": "Movie & TV",
+      "institution": "Voionmaan opisto"
+    },
+    {
+      "endDate": "2006-06",
+      "startDate": "2001-09",
+      "area": "Finnish Matriculation Examination",
+      "studyType": "Finnish Matriculation Certificate",
+      "institution": "Vammalan lukio"
+    },
+    {
+      "endDate": "2005-06",
+      "startDate": "2001-08",
+      "area": "A dressmaker (VQ)",
+      "studyType": "Vocational Qualification",
+      "institution": "Vammalan ammattikoulu"
     }
   ],
   "references": [
     {
       "reference": "Veera has been one of the most skilled employees in the team, showing strong initiative from the beginning, but also always finding time to help her colleagues. 10/10 co-worker",
-      "name": "Otto, colleague"
+      "name": "Otto K., colleague in Vivicta"
     }
   ],
   "skills": [
     {
-      "keywords": ["HTML", "CSS"],
-      "level": "Junior",
-      "name": "Frontend"
+      "keywords": ["M365", "Entra ID", "Intune", "Active Directory", "ADUC", "SCCM", "PowerShell", "ServiceNow", "ITIL", "DHCP", "PSExec", "Command Prompt", "RDP", "TeamViewer", "Windows", "macOS"],
+      "level": "Proficient",
+      "name": "Microsoft & IT Operations"
     },
     {
-      "keywords": ["Python", "Postgres", "SQL"],
-      "level": "Junior",
-      "name": "Backend"
+      "keywords": ["SQL (PostgreSQL, SQLite)", "Power BI", "Microsoft Fabric", "Grafana", "DBeaver"],
+      "level": "Intermediate",
+      "name": "Data & Analytics"
     },
     {
-      "keywords": ["AWS", "Azure", "Azure AI"],
-      "level": "Junior",
-      "name": "Devops"
+      "keywords": ["Python", "Bash", "HTML", "CSS", "Markdown", "Git", "GitHub", "GitHub Copilot", "APIs"],
+      "level": "Intermediate",
+      "name": "Programming & Automation"
+    },
+    {
+      "keywords": ["Azure", "Azure AI", "AWS", "CI/CD", "VS Code"],
+      "level": "Familiar",
+      "name": "Cloud & DevOps"
+    },
+    {
+      "keywords": ["WordPress", "Netvisor", "M2"],
+      "level": "Familiar",
+      "name": "Other Tools"
+    },
+    {
+      "keywords": ["Clear communication", "Excellent customer service", "Problem solving", "Project management", "Ability to explain technical concepts", "Collaborative mindset"],
+      "level": "Senior",
+      "name": "Soft Skills"
     }
   ],
   "languages": [
@@ -61,6 +102,14 @@
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Basic"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
     }
   ],
   "certificates": [
@@ -68,7 +117,7 @@
       "name": "AI-900 Azure AI Fundamentals",
       "date": "2024-06",
       "issuer": "Microsoft",
-      "url": null
+      "url": "https://learn.microsoft.com/api/credentials/share/en-us/VeeraNiemi-7792/AC998E20AC75313C?sharingId=826F55ECE80A3BF"
     }
   ],
   "work": [
@@ -81,7 +130,7 @@
       "position": "Service Desk Specialist",
       "startDate": "2022-09",
       "endDate": "",
-      "highlights": ["customer service", "problem solving", "printers", "backoffice"]
+      "highlights": ["Customer service", "Troubleshooting", "Printer management", "Back Office duties"]
     },
     {
       "summary": "",
@@ -91,21 +140,21 @@
       "position": "Project Manager",
       "startDate": "2012-02",
       "endDate": "2022-01",
-      "highlights": ["Project management", "expos", "streams", "audio"]
+      "highlights": ["Project management", "Coordinating", "Expos", "Streams", "Audio"]
     }
   ],
   "interests": [
     {
+      "name": "Cybersecurity"
+    },
+    {
+      "name": "MimmitKoodaa"
+    },
+    {
+      "name": "Women4CyberFI"
+    },
+    {
       "name": "Puzzles"
-    },
-    {
-      "name": "Daft Punk"
-    },
-    {
-      "name": "Cities:Skylines"
-    },
-    {
-      "name": "BeatSaber"
     }
   ]
 }
