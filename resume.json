@@ -8,7 +8,7 @@
     "image": "https://avatars.githubusercontent.com/u/85611014?v=4", 
     "summary": "Driven by curiosity, continuous learning, and the joy of turning technical challenges into real improvements.",
     "website": "https://www.linkedin.com/in/niemiveera/",
-    "email": "test@test.com",
+    "email": "'sukunimietunimi'@gmail.com",
     "location": {
       "city": "Tampere",
       "countryCode": "FI"
@@ -51,7 +51,7 @@
     {
       "endDate": "2005-06",
       "startDate": "2001-08",
-      "area": "A dressmaker (VQ)",
+      "area": "Dressmaker",
       "studyType": "Vocational Qualification",
       "institution": "Vammalan ammattikoulu"
     }
@@ -64,34 +64,39 @@
   ],
   "skills": [
     {
-      "keywords": ["M365", "Entra ID", "Intune", "Active Directory", "ADUC", "SCCM", "PowerShell", "ServiceNow", "ITIL", "DHCP", "PSExec", "Command Prompt", "RDP", "TeamViewer", "Windows", "macOS"],
-      "level": "Proficient",
-      "name": "Microsoft & IT Operations"
-    },
-    {
-      "keywords": ["SQL (PostgreSQL, SQLite)", "Power BI", "Microsoft Fabric", "Grafana", "DBeaver"],
-      "level": "Intermediate",
+      "keywords": ["SQL (PostgreSQL, SQLite)", "DBeaver", "Power BI", "Microsoft Fabric", "Grafana", "Data modeling", "ETL/ELT concepts"],
+      "level": "Beginner",
       "name": "Data & Analytics"
     },
     {
-      "keywords": ["Python", "Bash", "HTML", "CSS", "Markdown", "Git", "GitHub", "GitHub Copilot", "APIs"],
-      "level": "Intermediate",
+      "keywords": ["Git", "GitHub", "Copilot", "Python", "Bash", "APIs", "VS Code", "Markdown"],
+      "level": "Beginner",
       "name": "Programming & Automation"
     },
     {
-      "keywords": ["Azure", "Azure AI", "AWS", "CI/CD", "VS Code"],
-      "level": "Familiar",
+      "keywords": ["Azure", "Azure AI", "AWS", "CI/CD", "Container basics"],
+      "level": "Beginner",
       "name": "Cloud & DevOps"
     },
     {
-      "keywords": ["WordPress", "Netvisor", "M2"],
-      "level": "Familiar",
-      "name": "Other Tools"
+      "keywords": ["M365", "Entra ID", "Intune", "Active Directory", "ADUC", "SCCM", "ServiceNow", "ITIL", "DHCP", "Telia SurfManager", "RDP", "PSExec", "Command Prompt",  "PowerShell", "TeamViewer", "Windows", "macOS"],
+      "level": "Intermediate",
+      "name": "Microsoft & IT Operations"
     },
     {
-      "keywords": ["Clear communication", "Excellent customer service", "Problem solving", "Project management", "Ability to explain technical concepts", "Collaborative mindset"],
-      "level": "Senior",
+      "keywords": ["WordPress", "HTML", "CSS"],
+      "level": "Beginner",
+      "name": "Web Tools"
+    },
+    {
+      "keywords": ["Clear communication", "Excellent customer service", "Problem solving", "Ability to explain technical concepts", "Collaboration", "Curiosity and continuous learning", "Project management"],
+      "level": "Advanced",
       "name": "Soft Skills"
+    },
+    {
+      "keywords": ["Microsoft 365",  "Power BI", "Google Services", "Easyjob by Protonic (specialized ERP)", "Trail (ELM)", "Netvisor", "M2"],
+      "level": "Daily tools",
+      "name": "Used as an end user"
     }
   ],
   "languages": [
@@ -122,25 +127,25 @@
   ],
   "work": [
     {
-      "summary": "",
-      "website": null,
+      "summary": "Single-point-of-conact service desk, tier 1. Providing customer support in a Microsoft environment and for multiple softwares. Handling service requests and incident management. Working with logs and reporting additional info for tier 2. Developing and improving knowledge base and templates. Special responsibilities: Print server management. BO-team member (backlog and advanced troubleshooting). Training new team members. Writing various instructions for end users.",
+      "website": "https://www.vivicta.com/fi/",
       "pinned": true,
       "name": "Vivicta (Tietoevry Tech Services)",
       "location": "Vaasa",
       "position": "Service Desk Specialist",
       "startDate": "2022-09",
       "endDate": "",
-      "highlights": ["Customer service", "Troubleshooting", "Printer management", "Back Office duties"]
+      "highlights": ["Customer service", "Advanced troubleshooting", "Printer management", "Back Office duties", "Knowledge base maintenance"]
     },
     {
-      "summary": "",
-      "website": null,
+      "summary": "Managing technical needs for various events. Coordinating technical teams and equipments. Providing technical solutions for customers’ needs. Bridge between customers and technical teams, ensuring clarity, removing obstacles. Budgeting and invoicing. Making small UI changes for streaming platform on-the-go.",
+      "website": "https://ct-group.com/fi/",
       "pinned": true,
       "name": "Creative Technology Finland",
-      "position": "Project Manager",
+      "position": "Project Manager & Project Coordinator",
       "startDate": "2012-02",
       "endDate": "2022-01",
-      "highlights": ["Project management", "Coordinating", "Expos", "Streams", "Audio"]
+      "highlights": ["Project management", "Lean & Agile facilitation", "Coordinating resources", "Live events", "Expos", "Streaming"]
     }
   ],
   "interests": [
@@ -155,6 +160,9 @@
     },
     {
       "name": "Puzzles"
+    },
+    {
+      "name": "Handcrafts"
     }
   ]
 }
