@@ -5,8 +5,8 @@
   "basics": {
     "name": "Veera Niemi",
     "label": "Service Desk Specialist",
-    "image": "https://avatars.githubusercontent.com/u/85611014?v=4", 
-    "summary": "Driven by curiosity, continuous learning, and the joy of turning technical challenges into real improvements.",
+    "image": "https://media.licdn.com/dms/image/v2/D4D35AQGPAnK18bZxeA/profile-framedphoto-shrink_400_400/B4DZoqos22GwAc-/0/1761651904188?e=1768690800&v=beta&t=CgUz_I7901nWfVYACqtwMHUz6rgnlMB6ZcgG2fFnOhs", 
+    "summary": "Driven by curiosity, continuous learning, and the joy of helping people by solving their problems.",
     "website": "https://www.linkedin.com/in/niemiveera/",
     "email": "'sukunimietunimi'@gmail.com",
     "location": {
@@ -32,12 +32,12 @@
       "startDate": "2006-08",
       "area": "Sound Design",
       "studyType": "Bachelor of Art and Media",
-      "institution": "Tampere Polytechnic (TAMK)"
+      "institution": "Tampere University of Applied Sciences (TAMK)"
     },
     {
       "endDate": "2006-06",
       "startDate": "2005-09",
-      "area": "Sound Design",
+      "area": "Sound",
       "studyType": "Movie & TV",
       "institution": "Voionmaan opisto"
     },
@@ -64,7 +64,7 @@
   ],
   "skills": [
     {
-      "keywords": ["SQL (PostgreSQL, SQLite)", "DBeaver", "Power BI", "Microsoft Fabric", "Grafana", "Data modeling", "ETL/ELT concepts"],
+      "keywords": ["SQL (PostgreSQL, SQLite)", "DBeaver", "Power BI", "Microsoft Fabric", "Grafana"],
       "level": "Beginner",
       "name": "Data & Analytics"
     },
@@ -79,7 +79,7 @@
       "name": "Cloud & DevOps"
     },
     {
-      "keywords": ["M365", "Entra ID", "Intune", "Active Directory", "ADUC", "SCCM", "ServiceNow", "ITIL", "DHCP", "Telia SurfManager", "RDP", "PSExec", "Command Prompt",  "PowerShell", "TeamViewer", "Windows", "macOS"],
+      "keywords": ["M365", "Entra ID", "Intune", "Active Directory", "ADUC", "SCCM", "ServiceNow", "ITIL", "DHCP", "Telia SurfManager", "RDP", "PSExec", "Command Prompt", "TeamViewer", "Windows", "macOS"],
       "level": "Intermediate",
       "name": "Microsoft & IT Operations"
     },
@@ -89,12 +89,12 @@
       "name": "Web Tools"
     },
     {
-      "keywords": ["Clear communication", "Excellent customer service", "Problem solving", "Ability to explain technical concepts", "Collaboration", "Curiosity and continuous learning", "Project management"],
+      "keywords": [ "Curiosity and continuous learning", "Clear communication", "Excellent customer service", "Problem solving", "Ability to explain technical concepts", "Collaboration", "Project management"],
       "level": "Advanced",
       "name": "Soft Skills"
     },
     {
-      "keywords": ["Microsoft 365",  "Power BI", "Google Services", "Easyjob by Protonic (specialized ERP)", "Trail (ELM)", "Netvisor", "M2"],
+      "keywords": ["Microsoft 365", "Power BI", "Google Services", "Easyjob by Protonic (specialized ERP)", "Trail (ELM)", "Netvisor", "M2"],
       "level": "Daily tools",
       "name": "Used as an end user"
     }
@@ -141,7 +141,7 @@
       "summary": "Managing technical needs for various events. Coordinating technical teams and equipments. Providing technical solutions for customers’ needs. Bridge between customers and technical teams, ensuring clarity, removing obstacles. Budgeting and invoicing. Making small UI changes for streaming platform on-the-go.",
       "website": "https://ct-group.com/fi/",
       "pinned": true,
-      "name": "Creative Technology Finland",
+      "name": "Creative Technology Finland (Bright Finland, Musiikki Mode)",
       "position": "Project Manager & Project Coordinator",
       "startDate": "2012-02",
       "endDate": "2022-01",
@@ -151,7 +151,7 @@
   "interests": [
     {
       "name": "IT related",
-      "keywords": ["Cybersecurity", "MimmitKoodaa", "Women4CyberFI"]
+      "keywords": ["Cybersecurity", "MimmitKoodaa", "Women4CyberFI", "Data", "Automation", "E-textiles"]
     },
     {
       "name": "Other interests",
