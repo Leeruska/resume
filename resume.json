@@ -150,12 +150,12 @@
   ],
   "interests": [
     {
-      "name": "IT related"
+      "name": "IT related",
       "keywords": ["Cybersecurity", "MimmitKoodaa", "Women4CyberFI"]
     },
     {
-      "name": "Other interests"
-            "keywords": ["Puzzles", "Handcrafts", "French House music"]
+      "name": "Other interests",
+      "keywords": ["Puzzles", "Handcrafts", "French House music"]
     }
   ]
 }
