@@ -5,8 +5,8 @@
   "basics": {
     "name": "Veera Niemi",
     "label": "Service Desk Specialist",
-    "image": "https://avatars.githubusercontent.com/u/85611014?v=4", 
-    "summary": "Driven by curiosity, continuous learning, and the joy of turning technical challenges into real improvements.",
+    "image": "https://media.licdn.com/dms/image/v2/D4D35AQGPAnK18bZxeA/profile-framedphoto-shrink_400_400/B4DZoqos22GwAc-/0/1761651904188?e=1768683600&v=beta&t=i-duV0c3B_ypRxBU39uRZFWto7gK0o37XWH6PQH-jzo", 
+    "summary": "Driven by curiosity, continuous learning, and the joy of helping people solving their problems.",
     "website": "https://www.linkedin.com/in/niemiveera/",
     "email": "'sukunimietunimi'@gmail.com",
     "location": {
@@ -30,14 +30,14 @@
     {
       "endDate": "2010-06",
       "startDate": "2006-08",
-      "area": "Sound Design",
+      "area": "Sound design",
       "studyType": "Bachelor of Art and Media",
-      "institution": "Tampere Polytechnic (TAMK)"
+      "institution": "Tampere University of Applied Sciences (TAMK)"
     },
     {
       "endDate": "2006-06",
       "startDate": "2005-09",
-      "area": "Sound Design",
+      "area": "Sound",
       "studyType": "Movie & TV",
       "institution": "Voionmaan opisto"
     },
@@ -49,7 +49,7 @@
       "institution": "Vammalan lukio"
     },
     {
-      "endDate": "2005-06",
+      "endDate": "2005-05",
       "startDate": "2001-08",
       "area": "Dressmaker",
       "studyType": "Vocational Qualification",
@@ -64,7 +64,7 @@
   ],
   "skills": [
     {
-      "keywords": ["SQL (PostgreSQL, SQLite)", "DBeaver", "Power BI", "Microsoft Fabric", "Grafana", "Data modeling", "ETL/ELT concepts"],
+      "keywords": ["SQL (PostgreSQL, SQLite)", "DBeaver", "Microsoft Fabric", "Grafana", "Power BI"],
       "level": "Beginner",
       "name": "Data & Analytics"
     },
@@ -79,7 +79,7 @@
       "name": "Cloud & DevOps"
     },
     {
-      "keywords": ["M365", "Entra ID", "Intune", "Active Directory", "ADUC", "SCCM", "ServiceNow", "ITIL", "DHCP", "Telia SurfManager", "RDP", "PSExec", "Command Prompt",  "PowerShell", "TeamViewer", "Windows", "macOS"],
+      "keywords": ["M365", "Entra ID", "Intune", "Active Directory", "ADUC", "SCCM", "ServiceNow", "ITIL", "Print Management", "DHCP", "Telia SurfManager", "RDP", "PSExec", "Command Prompt", "TeamViewer", "Windows", "macOS"],
       "level": "Intermediate",
       "name": "Microsoft & IT Operations"
     },
@@ -94,7 +94,7 @@
       "name": "Soft Skills"
     },
     {
-      "keywords": ["Microsoft 365",  "Power BI", "Google Services", "Easyjob by Protonic (specialized ERP)", "Trail (ELM)", "Netvisor", "M2"],
+      "keywords": ["Microsoft 365 / Office 365",  "Power BI", "Google Services", "Easyjob by Protonic (specialized ERP)", "Trail (ELM)", "Netvisor", "M2"],
       "level": "Daily tools",
       "name": "Used as an end user"
     }
@@ -127,7 +127,7 @@
   ],
   "work": [
     {
-      "summary": "Single-point-of-conact service desk, tier 1. Providing customer support in a Microsoft environment and for multiple softwares. Handling service requests and incident management. Working with logs and reporting additional info for tier 2. Developing and improving knowledge base and templates. Special responsibilities: Print server management. BO-team member (backlog and advanced troubleshooting). Training new team members. Writing various instructions for end users.",
+      "summary": "Single-point-of-conact service desk, tier 1. Providing customer support in a Microsoft environment and for multiple softwares. Handling service requests and incident management. Working with logs and reporting additional info for tier 2. Developing and improving knowledge base and templates. Special responsibilities: Print server management. BO-team member (backlog and advanced troubleshooting). Training new team members. Writing instructions for end users.",
       "website": "https://www.vivicta.com/fi/",
       "pinned": true,
       "name": "Vivicta (Tietoevry Tech Services)",
@@ -150,19 +150,12 @@
   ],
   "interests": [
     {
-      "name": "Cybersecurity"
+      "name": "IT related"
+      "keywords": ["Cybersecurity", "MimmitKoodaa", "Women4CyberFI"]
     },
     {
-      "name": "MimmitKoodaa"
-    },
-    {
-      "name": "Women4CyberFI"
-    },
-    {
-      "name": "Puzzles"
-    },
-    {
-      "name": "Handcrafts"
+      "name": "Other interests"
+            "keywords": ["Puzzles", "Handcrafts", "French House music"]
     }
   ]
 }
