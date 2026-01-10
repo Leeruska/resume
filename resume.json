@@ -150,19 +150,12 @@
   ],
   "interests": [
     {
-      "name": "Cybersecurity"
+      "name": "IT related",
+      "keywords": ["Cybersecurity", "MimmitKoodaa", "Women4CyberFI"]
     },
     {
-      "name": "MimmitKoodaa"
-    },
-    {
-      "name": "Women4CyberFI"
-    },
-    {
-      "name": "Puzzles"
-    },
-    {
-      "name": "Handcrafts"
+      "name": "Other interests",
+      "keywords": ["Puzzles", "Handcrafts", "French House music"]
     }
   ]
 }
